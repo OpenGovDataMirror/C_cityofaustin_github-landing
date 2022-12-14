@@ -1,0 +1,9 @@
+baseurl:     ''
+exclude:     [README.md, Gemfile, Gemfile.lock, vendor, _site]
+permalink:   /articles/:title/
+highlighter: rouge
+markdown:    kramdown
+
+title: City of Austin Open Tech
+url: "https://cityofaustin.github.io/"
+description: "Learn about design and development work at the City of Austin."
